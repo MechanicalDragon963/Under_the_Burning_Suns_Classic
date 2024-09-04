@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2016-05-09 21:24-0300\n"
-"PO-Revision-Date: 2024-08-24 14:34+0400\n"
+"PO-Revision-Date: 2024-09-05 01:47+0400\n"
 "Last-Translator: Fedor Khod'kov <fkhodkov@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -36,8 +36,6 @@ msgstr "ППС"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:19
-#, fuzzy
-#| msgid "Normal"
 msgid "(Normal)"
 msgstr "(Нормально)"
 
@@ -50,8 +48,6 @@ msgstr "Ловец пустыни"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:20
-#, fuzzy
-#| msgid "Challenging"
 msgid "(Challenging)"
 msgstr "(Сложно)"
 
@@ -64,8 +60,6 @@ msgstr "Страж пустыни"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:21
-#, fuzzy
-#| msgid "Nightmare"
 msgid "(Nightmare)"
 msgstr "(Очень сложно)"
 
@@ -11035,10 +11029,6 @@ msgstr "О боги, только всё начало успокаиваться
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2332
-#, fuzzy
-#| msgid ""
-#| "Our people are scattered and exhausted, where will we go now Kaleh? Shall "
-#| "we retreat back into the dunes?"
 msgid ""
 "Our people are scattered and exhausted, where will we go now Kaleh? Shall we "
 "retreat back into the dunes?"
@@ -15327,13 +15317,6 @@ msgstr "Человек-краб"
 
 #. [unit_type]: id=Crab Man, race=monster
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Crab_Man.cfg:18
-#, fuzzy
-#| msgid ""
-#| "The Monster Crab is a semi-sentient crab the size of a horse. It is one "
-#| "of many twisted monsters recorded by the sages of Wesnoth and probably "
-#| "the creation of some twisted mage. These monstrosities have spread into "
-#| "the wild and prefer to live around coastal waters, preying on both humans "
-#| "and animals."
 msgid ""
 "The Crab Men are part crab, part humanoid, and are certainly one of the most "
 "twisted monsters ever recorded by the sages of Wesnoth. Probably the "
@@ -15341,7 +15324,7 @@ msgid ""
 "and prefer to live around coastal waters, preying on both humans and animals."
 msgstr ""
 "Краб-монстр — частично краб, частично человекообразно существо размером с "
-"лощадь, и уж точно — одно из самых странных чудищ, о которых упоминали "
+"лошадь, и уж точно — одно из самых странных чудищ, о которых упоминали "
 "веснотские мудрецы. Эти чудовища, созданные не иначе, как извращённой волей "
 "какого-то мага, расползлись по диким землям, предпочитая жить в прибрежных "
 "водах, нападая как на людей, так и на животных."
